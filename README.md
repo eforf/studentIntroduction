@@ -1,8 +1,8 @@
 # studentIntroduction
 
-Student Name      Age     Class     Inclined To(Maths/English/Hindi)
+Student Name                        Age                     Class                           Inclined To(Maths/English/Hindi)
 
-XYZ               6         4         Mathematics
+XYZ                                 6                         4                             Mathematics
 
 
-VWX               5         3         Hindi + English
+VWX                                 5                         3                             Hindi + English
